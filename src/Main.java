@@ -102,3 +102,4 @@ public class Main {
             System.out.println("Peringatan: pengujian internal gagal.");
         }
     }
+}

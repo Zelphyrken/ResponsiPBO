@@ -10,7 +10,7 @@
 
 ## Cara Menjalankan Program
 
-Program ini dibuat melalui java dan dijalankan melalui terminal. Pastikan JDK sudah terpasang di komputer.te
+Program ini dibuat melalui java dan dijalankan melalui terminal. Pastikan JDK sudah terpasang di komputerrr
 Buka folder proyek `ResponsiPBO`, lalu buka terminal di folder tersebut. Jalankan perintah berikut secara berurutan:
 
 ```bash
@@ -30,6 +30,6 @@ Berikut tampilan terminal setelah jarak orang diatur menjadi 80 cm sehingga Lamp
 
 ![Hasil program Lampu Pintar](screenshots/output_program.png)
 
-Screenshot output lain untuk mengubah jadwal jam yang ditentukan. Jam nya disesuaikan dengan yang diinginkan, hanya bisa 0-23-
+Screenshot output lain untuk mengubah jam sesuai dengan yang diinginkan. Jam nya disesuaikan dengan yang diinginkan, hanya bisa 0-23-
 
 ![Output program](screenshots/output_program2.png)
